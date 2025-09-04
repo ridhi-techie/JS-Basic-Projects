@@ -1,4 +1,4 @@
-# JS Basic Projects
+# JS Basic Projects!
 
 This repository contains a collection of beginner-level JavaScript projects to practice fundamental concepts such as DOM manipulation, conditional statements, user input handling, and more.
 
